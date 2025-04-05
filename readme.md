@@ -44,9 +44,9 @@ crop-recommendation-system/ │ ├── data/ # Dataset files (CSV) ├── 
 1. Clone the repo:
 
 bash
-git clone https://github.com/Sushree1707/crop-recommendation-system.git
-cd crop-recommendation-system
-pip install -r requirements.txt
+git clone https://github.com/Sushree1707/crop-recommendation-system.git&&
+cd crop-recommendation-system&&
+pip install -r requirements.txt&&
 jupyter notebook
 
 ## 👩‍💻 Author
