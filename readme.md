@@ -47,7 +47,7 @@ crop-recommendation-system/ │ ├── data/ # Dataset files (CSV) ├── 
 git clone https://github.com/Sushree1707/crop-recommendation-system.git &&
 cd crop-recommendation-system &&
 pip install -r requirements.txt &&
-jupyter notebook```
+jupyter notebook
 
 ## 👩‍💻 Author
 
